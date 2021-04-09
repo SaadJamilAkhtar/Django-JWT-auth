@@ -4,6 +4,7 @@
 
 ### /hello (for testing authorization output).
 ### /token/ (for requesting token).
+### /token/refresh (for refreshing token).
 
 
 # How to use:
